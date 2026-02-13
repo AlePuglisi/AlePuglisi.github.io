@@ -1,13 +1,12 @@
 ---
 permalink: /
 author_profile: true
-title: AP - About Me 
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Let's protect the ocean with Robots !
+# About Me: Let's protect the ocean with Robots !
 
 Work in Progress ...
 
