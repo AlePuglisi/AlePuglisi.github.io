@@ -2,12 +2,13 @@
 permalink: /
 author_profile: true
 classes: hide-page-title
+title: AP - About Me 
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me: Let's protect the ocean with Robots !
+# Let's protect the ocean with Robots !
 
 Work in Progress ...
 
