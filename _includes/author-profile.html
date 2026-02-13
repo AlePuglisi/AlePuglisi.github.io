@@ -30,6 +30,9 @@
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
+      {% if author.lab %}
+        <li><a href="{{ author.lab }}"><i class="fas fa-fw fa-ship icon-pad-right" aria-hidden="true"></i>RSM, LIRMM</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
@@ -167,6 +170,9 @@
       {% endif %}
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
+      {% endif %}
+      {% if author.sketchfab %}
+        <li><a href="https://sketchfab.com/{{ author.sketchfab }}"><i class="fas fa-fw fa-cube icon-pad-right" aria-hidden="true"></i>Sketchfab</a></li>
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>

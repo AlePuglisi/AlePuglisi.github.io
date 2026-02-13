@@ -26,9 +26,11 @@ author:
   avatar           : "profile_pic.png"
   name             : "Alessandro Puglisi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Marine Robotics"
+  bio              : "PhD candidate in Marine Robotics.  
+                      Enhancing underwater systems' perception for exploration and environmental monitoring"
   location         : "Montpellier, France"
   employer         : "University of Montpelliery"
+  lab              : "https://www.lirmm.fr/equipes/rsm/" # Add your lab/research center URL here
   uri              : # URL
   email            : "alessandro.puglisi@lirmm.fr" 
 
@@ -79,6 +81,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
+  sketchfab        : "AlessandroPuglisi"
   youtube          : "AlessandroPuglisiRobotics"
   zhihu            : # Username
 

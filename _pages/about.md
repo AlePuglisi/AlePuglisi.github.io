@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "About Me: Let's protect the ocean with Robots !"
+title: "Alessandro Puglisi"  # This appears in browser tab
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# About Me: Let's protect the ocean with Robots !
 
 Work in Progress ...
+
 
 A bit more about me? Get ready for a deep dive :diving_mask: :bubbles:
 ======
