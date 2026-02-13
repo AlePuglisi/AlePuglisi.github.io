@@ -1,7 +1,6 @@
 ---
 permalink: /
 author_profile: true
-classes: hide-page-title
 title: AP - About Me 
 redirect_from: 
   - /about/
