@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "Alessandro Puglisi"
 author_profile: true
-classes: hide-page-title
 redirect_from: 
   - /about/
   - /about.html

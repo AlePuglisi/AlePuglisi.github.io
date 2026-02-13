@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "About Me"
+title                    : "AP - About Me"
 title_separator          : "-"
 name                     : &name "Alessandro Puglisi"
 description              : &description "Your Name's academic projects"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "Alessandro Puglisi"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Marine Robotics.  
-                      Enhancing underwater systems' perception for exploration and environmental monitoring"
+                      Enhancing underwater systems' perception for exploration and environmental monitoring."
   location         : "Montpellier, France"
   employer         : "University of Montpelliery"
   lab              : "https://www.lirmm.fr/equipes/rsm/" # Add your lab/research center URL here
