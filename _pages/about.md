@@ -38,7 +38,7 @@ an enhanced understanding of the scene, with additional robustness and informati
 </details>
 
 <br>
-I received my Bachelor (2019-22) and Master (2022-25) degrees in **Automation and Control Engineering**, at Politecnico di Milano. \\
+I received my Bachelor (2019-22) and Master (2022-25) degrees in **Automation and Control Engineering** at Politecnico di Milano. \\
 During my Master's studies I spent 5 months in Japan at Tohoku University (read [my feedback](https://www.ccsatm.polimi.it/alessandro-puglisi-tohoku-univeristy-sendai-japan/?lang=en)), as an exchange student and a research member
 of the [Space Robotics Lab](https://astro2.mech.tohoku.ac.jp/en/) (SRL). 
 I was a member of the Rover Team, working on a joint project with the Limbed Team. 
