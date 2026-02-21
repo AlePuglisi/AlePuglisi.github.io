@@ -8,40 +8,65 @@ redirect_from:
 ---
 
 {% include base_path %}
+Skills
+======
+* **Programming Languages**
+  * C++
+  * python
+  * MATLAB
+  * C
+* **Robotics Tools**
+  * ROS1 - ROS2
+  * Gazebo (General Robot Simulator)
+  * Stonefish (Marine Robot Simulator)
+* Relevant **Software and Libraries**
+  * Linux
+  * opencv
+  * pytorch
+  * colmap 
+  * simulink 
+* Relevant **Engineering**
+  * Control Theory 
+  * Computer Vision 
+  * Robot Perception 
+  * Robust Estimation 
+  * Optimization 
+* **Extra**
+  * Scuba Diving 
+
+Work Experience
+======
+* **Robotics Python Developer** - Summer Internship, Jul.2025-Sep.2025
+  * Robotair, INESC TEC, Remotely - Porto, Portugal
+  * Work: Integrate new ROS containerization features to the Robotair platform
+  * Tools: python, docker, ROS, Git
+  
+Research Experience
+======
+* **Robotics Research Student** - University Exchange, Apr.2024-Sep.2024
+  * Space Robotics Lab, Tohoku University - Tohoku, Japan
+  * Work: Implement and test new features on a multi-modal limbed space robot
+  * Tools: C++, python, ROS2, Gazebo, Dynamixel servomotors
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Underwater Robotics, LIRMM-RSM, University of Montpellier, 2025-2028 (expected)
+* WildDrone Summer School, Max Planck Institute of Animal Behavior, Sept.2025
+* M.S. Exchange as Robotics Researcher, Space Robotics Lab, Tohoku University, 2024
+* M.S. in Automation and Control Engineering, Politecnico di Milano, 2022-2025
+* B.S. in Automation and Control Engineering, Politecnico di Milano, 2019-2022
 
-Work experience
+<!-- Volunteering
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AILERONS, Oct. 2025 - present
+* AVIS, blood doner, 2023-2025 -->
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Certificate and Courses
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scuba Diving Niveau 2 FFESSM (Supervised diver 40m - Autonomous diver 20m)
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +86,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
