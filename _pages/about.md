@@ -42,8 +42,8 @@ I received my Bachelor (2019-22) and Master (2022-25) degrees in **Automation an
 During my Master's studies I spent 5 months in Japan at Tohoku University (read [my feedback](https://www.ccsatm.polimi.it/alessandro-puglisi-tohoku-univeristy-sendai-japan/?lang=en)), as an exchange student and a research member
 of the [Space Robotics Lab](https://astro2.mech.tohoku.ac.jp/en/) (SRL). 
 I was a member of the Rover Team, working on a joint project with the Limbed Team. 
-My research project involved a Prototype Multi-Modal Multi-Limbed Space Robot (watch some [report videos](https://youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C&si=o7Ic9U2FwktZvU85)),
-and become my [Master Thesis](https://www.politesi.polimi.it/handle/10589/235457).
+My research project involved a Prototype Multi-Modal Multi-Limbed Space Robot ([report videos](https://youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C&si=o7Ic9U2FwktZvU85)),
+and became my [Master's Thesis](https://www.politesi.polimi.it/handle/10589/235457).
 
 # Do you want to know more? Get ready for a deep dive :diving_mask: :bubbles:
 
