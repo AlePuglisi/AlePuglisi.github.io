@@ -53,11 +53,33 @@ a {
 }
 
 @media (max-width: 768px) {
+  /* Hide the toggle button */
   .author__urls-wrapper .btn {
     display: none !important;
   }
 
+  /* Show the links list as a normal block */
   .author__urls {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 8px 0 !important;
+    box-shadow: none !important;
+    position: static !important;
+    background: transparent !important;
+  }
+
+  /* Make each link compact and inline */
+  .author__urls li {
+    margin: 0 !important;
+  }
+
+  /* Keep the sidebar as a normal flow block above content */
+  .sidebar {
     display: block !important;
+    position: static !important;
+    float: none !important;
+    width: 100% !important;
+    margin-bottom: 16px !important;
   }
 }
