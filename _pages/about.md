@@ -57,7 +57,7 @@ feel free to contact me via email or through my listed accounts.
 
 # A Deeper Look Into My Journey :diving_mask: :bubbles:
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
   <img style="width: 45%; max-width: 500px;" src="/images/about/DeepOceanCoding.gif">
   <video style="width: 45%; max-width: 500px;" autoplay loop muted playsinline>
     <source src="/images/about/scuba.mp4" type="video/mp4">
@@ -202,11 +202,20 @@ of this domain** and the constraints my robotic systems must face.
 In my future as a marine robotics researcher, 
 I want my diving skills to be an integral part of my work.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-  <video style="width: 28%; max-width: 500px;" autoplay loop muted playsinline>
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+  <video style="width: 29%; max-width: 500px;" autoplay loop muted playsinline>
     <source src="/images/about/scuba02.mp4" type="video/mp4">
   </video>
   <img style="width: 64%; max-width: 500px;" src="/images/about/diving_scuba.jpg">
 </div>
 
+<br>
+
+**What's Next**<br>
+My objective is to work on **R&D in Underwater Robots perception**. I want to enhance scene understanding and system autonomy, for biodiversity, environmental, and renewable infrastructure monitoring, conservation and restoration.
+I believe that there are unsolved problems in different fields of science and engineering, with many similarities we don't think about. That's why joining forces is the only way to solve some of those. I want to work closely with experts in biology, environmental studies, data science, electronics, and mechanics, to find the solution to those problems.
+
+Good bubbles ! <br>
+Thank you so much for reading my story. <br>
+Alessandro 
 
