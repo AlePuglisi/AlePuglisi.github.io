@@ -43,6 +43,11 @@ Work Experience
   
 Research Experience
 ======
+* **Marine Robotics Perception** - PhD Candidate, Oct.2025-present
+  * Marine Robotics Team (RSM), LIRMM, University of Montpellier - Montpellier, France
+  * Work (ongoing): Enhance underwater semantic opti-acoustic localization and mapping
+  * Tools: C++, python, ROS2, Stonefish, opencv, pytorch
+
 * **Robotics Research Student** - University Exchange, Apr.2024-Sep.2024
   * Space Robotics Lab, Tohoku University - Tohoku, Japan
   * Work: Implement and test new features on a multi-modal limbed space robot
