@@ -46,3 +46,18 @@
 a {
   text-decoration: none !important;
 }
+
+.page__content a:hover,
+.author__urls a:hover {
+  text-decoration: underline !important;
+}
+
+@media (max-width: 768px) {
+  .author__urls-wrapper .btn {
+    display: none !important;
+  }
+
+  .author__urls {
+    display: block !important;
+  }
+}

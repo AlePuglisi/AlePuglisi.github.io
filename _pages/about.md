@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 # About Me: Let's protect the ocean with robots !
-**Marine Robotics Perception**, **(Opti-Acosutic) SLAM**, **Enhanced Scene Awareness**, \\
-**Autonomous Ecosystem Monitoring**, **Ocean Science**
+**Marine Robotics Perception**, **(Opti-Acosutic) SLAM**, **3D Reconstruction**, \\
+**Enhanced Scene Awareness**, **Autonomous Ecosystem Monitoring**, **Ocean Science**
 
 
 I'm a **PhD Student** of the [Marine Robotics Team](https://www.lirmm.fr/equipes/rsm/) (RSM), 

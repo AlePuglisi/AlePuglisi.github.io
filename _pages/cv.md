@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv/PuglisiAlessandro_CV.pdf" class="btn btn--inverse">Download CV as PDF</a>
+</div> <br>
+
 Skills
 ======
 * **Programming Languages**
