@@ -98,7 +98,12 @@ and that I would not turn my back on my younger self,
 the one who wanted to explore and protect our planet and its creatures.
 
 
-<!-- photos  -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+  <img style="width: 62%; max-width: 500px;" src="/images/about/polimi_bioinspired.jpeg">
+  <img style="width: 25%; max-width: 500px;" src="/images/about/polimi_laurea.jpg">
+</div>
+
+<br>
 
 **My Japanese Experience and Robotics Dream**<br>
 During the last year of my Master’s, I spent five months in Japan as an Extra-EU exchange student at Tohoku University.
@@ -131,7 +136,7 @@ The video showed the [ROV Ventana](https://www.mbari.org/technology/rov-ventana/
 and its ability to capture stunning deep-sea footage and conduct in situ experiments.
 The Monterey Bay Aquarium Research Institute has been developing cutting-edge technology for ocean exploration since 1988: underwater vehicles, novel instrumentation, large-scale annotated marine datasets, and machine learning algorithms to study the ocean and its inhabitants.
 A kind of “sci-fi ocean science” institute, where engineers, scientists, and operators collaborate every day to explore the sea. I had found my current.
-After that moment, I discovered other oceanographic institutions and organizations that merge robotics and ocean science: Schmidt Ocean Institute, Woods Hole Oceanographic Institution, OceanX, Nautilus Live, and Ifremer.
+After that moment, I discovered other oceanographic institutions and organizations that merge robotics and ocean science: [Schmidt Ocean Institute](https://schmidtocean.org/), [Woods Hole Oceanographic Institution](https://www.whoi.edu/), [OceanX](https://oceanx.org/about/?gad_source=1&gad_campaignid=22992693538&gbraid=0AAAABBIJQrEPHP4Li5BBxHtMCNzxRQW3Y&gclid=Cj0KCQiA7-rMBhCFARIsAKnLKtD1cMmikv3yq-mud5Pfsl2iHiOndMilXQgejxcIuG-FTWb9peTcvaYaAgQpEALw_wcB), [Nautilus Live](https://nautiluslive.org/), and [Ifremer](https://www.ifremer.fr/fr).
 Watching their videos and reading about their latest missions and technologies is a continuous source of inspiration for me.
 
 Exploration, however, is not enough. 
@@ -141,7 +146,13 @@ In spatially aware marine robotic systems,
 I see the future of large-scale biodiversity monitoring, data collection, and exploration, 
 helping define new marine protected areas and regulations against ocean exploitation.
 
-<!-- photos  -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+  <img style="width: 20%; max-width: 500px;" src="/images/about/mbari_ventana.png">
+  <img style="width: 38%; max-width: 500px;" src="/images/about/hydrothermal_vents.jpg">
+  <img style="width: 37%; max-width: 500px;" src="/images/about/subastian_rov.jpg">
+</div>
+(from left tp right: MBARI's ROV Ventana, hydrothermal vent on the Juan de Fuca Ridge in the North Pacific Ocean off Vancouver Island, Schmidt Ocean Institute's ROV Subastian)
+<br>
 
 **Applying for a PhD in Marine Robotics**<br>
 But before embarking on this mission, I needed a stronger background in this robotics domain.
@@ -153,8 +164,12 @@ Reflecting on this, I realized that a PhD in marine robotics could help me gain 
 It is April 2025. I am about to graduate, and I have finally found where to apply and for which project:
 "*Mapping and monitoring of the surface condition and biological colonization of submerged parts of offshore wind turbines using acoustic imaging*" at the University of Montpellier. 
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+  <img style="width: 40%; max-width: 500px;" src="/images/about/phd_lab.jpg">
+  <img style="width: 57%; max-width: 500px;" src="/images/about/phd_tank.jpg">
+</div>
 
-<!-- photos  -->
+<br>
 
 **Going Deep**<br>
 Missions such as coral gardening and ghost net removal still require human divers.
