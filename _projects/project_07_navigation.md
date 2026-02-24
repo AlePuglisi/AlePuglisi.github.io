@@ -17,7 +17,6 @@ collection: portfolio
 </div> 
 
 ## University Project 
-
 Final group assignments of a course in [Perception Localization and Mapping for Mobile Robots](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=837910&__pj0=0&__pj1=22e9c7f323b7d3a5839ccc4b7486a513).
 
 Implementation of Mobile Robot navigation simulation with ROS1, using Real robot data collected in ROS bags.

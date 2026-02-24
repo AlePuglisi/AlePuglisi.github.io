@@ -9,7 +9,7 @@ through Linear Matrix Inequality (LMI) theory and YALMIP optimization toolbox. "
 collection: portfolio
 ---
 
-**Completed** - 2023 | MATLAB - Decentralized Control - Simulation - Control tuning and optimization 
+**Completed** - 2023 | MATLAB - Simulation - Decentralized Control - Control tuning and optimization 
 <div class="project-github-link">
   <a href="https://github.com/AlePuglisi/three-tanks-distributed-control" class="btn btn--inverse">GitHub Repo</a>
 </div> <br>

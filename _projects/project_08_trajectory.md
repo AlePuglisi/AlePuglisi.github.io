@@ -10,11 +10,10 @@ Implemented the trajectory generator and the controller in C++."
 collection: portfolio
 ---
 
-**Completed** - 2023 | Simulation - ROS 1 - Mobile Robot Trajectory Tracking - C++ 
+**Completed** - 2023 | C++ - ROS 1 - Simulation - Mobile Robot Trajectory Tracking   
 <div class="project-github-link">
   <a href="https://github.com/AlePuglisi/bicycle-feedback-linearization-ros" class="btn btn--inverse">GitHub Repo</a>
 </div> <br>
-
 Final assignment of a course on [Control of Mobile Robots](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=837146&lang=IT&__pj0=0&__pj1=8379d6c35eccfe1c998db9b2de7c0e1c). 
 
 - Simulated a car‐like robot with kinematic and dynamic bicycle model, using ROS and odeint C++ library.
