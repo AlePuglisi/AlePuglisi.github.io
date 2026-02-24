@@ -11,4 +11,8 @@ Implemented and tuned custom joint controllers in C++."
 collection: portfolio
 ---
 
+<div class="project-github-link">
+  <a href="https://github.com/AlePuglisi/limbed-robot-control" class="btn btn--inverse">GitHub Repo</a>
+</div> 
+
 Project description. 
