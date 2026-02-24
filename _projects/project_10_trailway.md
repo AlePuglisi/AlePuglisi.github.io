@@ -10,4 +10,8 @@ Analyzed the performance with different external disturbances (slopes)."
 collection: portfolio
 ---
 
+<div class="project-github-link">
+  <a href="https://github.com/AlePuglisi/trailway-DC-motor-control" class="btn btn--inverse">GitHub Repo</a>
+</div> <br>
+
 Project description. 

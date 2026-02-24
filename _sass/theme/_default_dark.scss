@@ -51,4 +51,12 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
+    .pagination--pager,
+    .pagination li a {
+        &:hover {
+            background-color: #{$link} !important;
+            border-color: #{$link} !important;
+            color: #fff !important;
+        }
+    }
 }
