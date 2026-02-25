@@ -19,6 +19,7 @@ In this project, we solve a benchmark problem in control theory, the (linearized
 In particular, coherently with the course topics, we implement different control schemes (centralized, decentralized, distributed).
 Simulation and performance analysis are done both in continuous-time and discrete-time domains.
 
+**Summary**:
 - Modeled and Simulated a Three Tanks system dynamics in MATLAB.
 - Implemented and Tuned Multi‐Variable Control structures, using Linear Matrix Inequalities solved with YALMIP
 optimization toolbox, making the system five times faster and eliminating water oscillations.

@@ -15,11 +15,19 @@ collection: portfolio
   <a href="https://github.com/AlePuglisi/LIMBERO" class="btn btn--inverse">GitHub Repo</a>
   <a href="https://www.youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C" class="btn btn--inverse">YouTube Videos</a>
 </div> <br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+  <img style="width: 35%; max-width: 500px;" src="/images/projects/LIMBERO.png">
+  <img style="width: 16%; max-width: 500px;" src="/images/projects/LIMBERO_GRIEEL.jpg">
+  <video style="width: 45%; max-width: 500px;" autoplay loop muted playsinline>
+    <source src="/images/projects/LIMBERO_GRIEEL.mp4" type="video/mp4">
+  </video>
+</div> <br>
 This project was completed as a member of the Rover team, one of the many teams of the Space Robotics Lab, led by Yoshida Kazuya sensei.
 
 The starting point was a ROS 2 software development of many packages controlling a climbing quadruped robot with 4 DOF per limb, and a gripper as an end-effector. 
 What is the mind-blowing part? The new end-effector I worked with, both in simulation and in real life, was a transformable module, able to transition from gripper to wheel and vice versa, by pulling some wires. Making the robot able to walk, climb, and even drive!
 
+**Summary**:
 Conducted 500+ hours of research in Tohoku University’s largest robotics lab, which comprises 80+ members
 across 5+ teams, under the supervision of Yoshida Kazuya Sensei.
 - Researched methods for robustly and efficiently transforming a prototype multi‐modal limbed climbing robot,
@@ -38,7 +46,7 @@ nating steady‐state error in motor control.
 - Tune the joint trajectory controllers, using ros2_control framework.
 - Perform experiments on the real system.
 
-**Main Contributions**
+**Main Contributions**:
 - updated the ROS 2 code, now able to:
  - Manage the additional end-effector joints (3 more).
  - Start the transition procedure in a stable way, changing joints angle and pulling the wires.
@@ -57,5 +65,10 @@ nating steady‐state error in motor control.
 **Exhange Research Presentation**
 <iframe src="/files/projects/SRL_Presentation.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
+<br>
 **Research Summary**
 <iframe src="/files/projects/SRL_Summary.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+<br>
+**Research Report**
+<iframe src="/files/projects/SRL_Report.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
