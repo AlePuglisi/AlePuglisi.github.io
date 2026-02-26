@@ -15,6 +15,8 @@ redirect_from:
 
 Skills
 ======
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,python,matlab,linux,ubuntu,ros,opencv,pytorch,vscode,git,github,blender,latex," />
+
 * **Programming Languages**
   * C++
   * python

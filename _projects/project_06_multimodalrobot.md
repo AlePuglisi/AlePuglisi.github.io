@@ -16,9 +16,9 @@ collection: portfolio
   <a href="https://www.youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C" class="btn btn--inverse">YouTube Videos</a>
 </div> <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
-  <img style="width: 35%; max-width: 500px;" src="/images/projects/LIMBERO.png">
-  <img style="width: 16%; max-width: 500px;" src="/images/projects/LIMBERO_GRIEEL.jpg">
-  <video style="width: 45%; max-width: 500px;" autoplay loop muted playsinline>
+  <img style="width: 40%; max-width: 500px;" src="/images/projects/LIMBERO.png">
+  <img style="width: 20%; max-width: 500px;" src="/images/projects/LIMBERO_GRIEEL.jpg">
+  <video style="width: 40%; max-width: 500px;" autoplay loop muted playsinline>
     <source src="/images/projects/LIMBERO_GRIEEL.mp4" type="video/mp4">
   </video>
 </div> <br>
