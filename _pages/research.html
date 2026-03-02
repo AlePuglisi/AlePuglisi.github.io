@@ -11,6 +11,20 @@ author_profile: true
 
 {% endif %}
 
+Visit my office at LIRMM. The place where my current research is happening! <br>
+Navigate the 3D scene:
+
+<iframe 
+  id="viewer" 
+  allow="fullscreen; xr-spatial-tracking" 
+  src="https://superspl.at/s?id=6bb6a719"
+  style="width: 80%; height: 400px; border: none; display: block; margin: 1em 0;">
+</iframe>
+
+Gaussian Splat reconstruction with <a href="https://colmap.github.io/" target="_blank">colmap</a> + <a href="https://docs.nerf.studio/nerfology/methods/splat.html" target="_blank">nerfstudio splatfacto</a>. <br>
+(Using just 300 frames extracted from a 100 seconds video taken with my phone)
+
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
