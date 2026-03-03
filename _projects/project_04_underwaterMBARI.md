@@ -1,6 +1,6 @@
 ---
 title: "Simulation of MBARI's Underwater Vehicles"
-excerpt: "<img align='left' src='/images/projects/barreleye.jpg' width='450' style='margin-right: 15px; margin-bottom: 15px;'/>**Personal Project - Ongonig** <br>
+excerpt: "<img align='left' src='/images/projects/ProjectMBARIsim.png' width='450' style='margin-right: 15px; margin-bottom: 15px;'/>**Personal Project - Ongonig** <br>
 Underwater Simulation Project - 2026 <br>
 C++ - Python - ROS2 - Gazebo - Stonefish <br>
 Modeled ROV Doc Ricketts + robotic arm (sketchfab) in ROS2 + Gazebo(2025). 

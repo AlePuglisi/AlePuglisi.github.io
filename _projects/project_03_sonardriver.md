@@ -1,6 +1,6 @@
 ---
 title: "ROS2 Driver for Blueprint Oculus M3000d Imaging Sonar"
-excerpt: "<img align='left' src='/images/projects/barreleye.jpg' width='450' style='margin-right: 15px; margin-bottom: 15px;'/>**PhD Research Project - Ongoing** <br>
+excerpt: "<img align='left' src='/images/projects/ProjectSonar.png' width='450' style='margin-right: 15px; margin-bottom: 15px;'/>**PhD Research Project - Ongoing** <br>
 Hardware Interface Project - 2025 <br>
 C++ - ROS2 - Sensor Driver <br>
 Developed a ROS2 C++ driver for the recent blueprint oculus M3000d imaging sonar
