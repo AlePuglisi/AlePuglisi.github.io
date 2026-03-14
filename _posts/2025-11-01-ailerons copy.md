@@ -1,0 +1,9 @@
+---
+title: "Joining AILERONS"
+date: 2025-11-01
+excerpt: "<img align='left' src='/images/blog/ailerons/BlogAILERONS.png' width='150' style='margin-right: 15px; margin-bottom: 15px;'/>**Protecting Sharks and Rays in the Mediterranean** <br>
+Arrived in Montpellier I decided to join the AILERONS association to partecipate in their mission to study and protect sharks and rays in the Mediterranean. My limited French speeking is sometimes a limitation, but I hope that in the future I will partecipate more in the association initiatives."
+collection: posts
+---
+
+Project description. 

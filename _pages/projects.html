@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+A place to share ongoing and completed projects.
+
+<div style="clear: both; overflow: hidden; margin-top: -1.5em; padding-bottom: 1em">
 {% for post in site.projects %}
-  <div style="clear: both; overflow: hidden; margin-bottom: 0em; padding-bottom: 1em; border-bottom: 1px;">
+  <div style="clear: both; overflow: hidden; margin-bottom: -2em; padding-bottom: 0em">
     {% include archive-single.html %}
   </div>
 {% endfor %}
+</div>

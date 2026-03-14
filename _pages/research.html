@@ -11,6 +11,8 @@ author_profile: true
 
 {% endif %}
 
+A place to share technical presentation and review about my research. 
+
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 16px; margin: 1em 0;">
 
   <!-- Left column: GSplat (70%) -->
@@ -42,7 +44,10 @@ author_profile: true
 
 </div>
 
-
+<div style="clear: both; overflow: hidden; margin-top: -2.5em; padding-bottom: 1em">
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  <div style="clear: both; overflow: hidden; margin-bottom: -2.0em; padding-bottom: 0.5em">
+    {% include archive-single-talk.html %}
+  </div>
 {% endfor %}
+</div>
