@@ -13,4 +13,11 @@ Other features are under development-testing based on our needs. "
 collection: portfolio
 ---
 
-Project description. 
+This project is adapted and extended from the M1200d [ROS2 Driver](https://github.com/godardma/oculus_ros2/tree/main) by ENSTA Bretagne Robotics, and the underlying low level Driver [Sonar Interface](https://github.com/ENSTABretagneRobotics/oculus_driver). The rebase to the M3000d model has been possible thanks to the ViewPointv2 SDK that the Blueprint Subsea Customer Support Team shared with me. 
+
+During the development of the driver, the following tasks have been addressed: 
+
+- Investigated the working principles of acoustic sensing, related software interface, and used data structures.
+- Updated the ROS2 driver of the previous sonar model, based on the proprietary C++ SDK.
+- Integrated acoustic data pre‑processing and explored possible state estimation approaches
+
