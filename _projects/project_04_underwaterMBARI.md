@@ -60,5 +60,56 @@ thrusters actuation, teleoperation, and sensing, based on vehicle’s specificat
 <iframe src="/files/projects/MBARI_vehicles_sim_ros2.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 <br>
 
+**Some of the 3D Models Made for this Project**
+
+I found some of the models used in thios project directly on [sketchfab](https://sketchfab.com/feed), while I modeled in blender other custom objects. 
+The custom 3D Models are available on my [sketchfab profile](https://sketchfab.com/AlessandroPuglisi). Here is a preview of some of my low-poly "creations". 
+
+
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+  <div style="width: 50%;">
+    <iframe 
+      title="Unofficial MBARI MOLA AUV" 
+      frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"
+      allow="autoplay; fullscreen; xr-spatial-tracking" 
+      src="https://sketchfab.com/models/8414b1b7e94c4212a5e7fcd667551858/embed"
+      width="100%" height="300">
+    </iframe>
+  </div>
+  <div style="width: 50%;">
+    <iframe 
+      title="Coral Gardening Frame AprilTags25h9" 
+      frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"
+      allow="autoplay; fullscreen; xr-spatial-tracking" 
+      src="https://sketchfab.com/models/fb2a2797e5a349a8a1a3782ed2bdf450/embed"
+      width="100%" height="300">
+    </iframe>
+  </div>
+</div>
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+  <div style="width: 50%;">
+    <iframe 
+      title="Unofficial MBARI Test Tank" 
+      frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"
+      allow="autoplay; fullscreen; xr-spatial-tracking" 
+      src="https://sketchfab.com/models/d5078165a14a442ba7cdb6b57b9973b5/embed"
+      width="100%" height="300">
+    </iframe>
+  </div>
+  <div style="width: 50%;">
+    <iframe 
+      title="Unofficial MBARI Docking Station" 
+      frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"
+      allow="autoplay; fullscreen; xr-spatial-tracking" 
+      src="https://sketchfab.com/models/5c2edcdb8d8d466e8f5985d2dc5ec253/embed"
+      width="100%" height="300">
+    </iframe>
+  </div>
+</div>
+
+<br>
+
+**What's Next**
+
 Stay tuned, new simulation projects are under development! e.g. Lightweight manipulator for MOLA, acoustic SLAM with factor
 graph (gtsam), deep sea animals tracking, autonomous navigation in coral reef restoration garden.
