@@ -12,11 +12,23 @@ Tested perception and state estimation algorithms."
 collection: portfolio
 ---
 
+**Ongoing** - 2026 | C++ - python - ROS 2 - Blender - Stonefish Simulation  - SLAM - Computer Vision<br>
 <div class="project-github-link">
   <a href="https://github.com/AlePuglisi/MBARI-vehicles-sim-ros2" class="btn btn--inverse">GitHub Repo</a>
   <a href="https://youtu.be/2kjYHoX9uA8?si=bx9ndiEQMwIl3Mih" class="btn btn--inverse">YouTube Demo</a>
 </div><br>
 This personal project is inspired by the work of the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/), which sparked my interest in marine robotics and continues to motivate my research journey.
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 5px;">
+  <img style="width: 26%; max-width: 500px;" src="/images/projects/04_mbari/mbari01.jpg">
+  <img style="width: 36%; max-width: 500px;" src="/images/projects/04_mbari/mbari02.png">
+  <img style="width: 30%; max-width: 500px;" src="/images/projects/04_mbari/mbari03.png">
+</div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 5px;">
+  <img style="width: 32%; max-width: 500px;" src="/images/projects/04_mbari/mbari04.png">
+  <img style="width: 32%; max-width: 500px;" src="/images/projects/04_mbari/mbari05.png">
+  <img style="width: 35%; max-width: 500px;" src="/images/projects/04_mbari/mbari06.png">
+</div>
 
 As part of my PhD at the [RSM Team](https://www.lirmm.fr/equipes/rsm/) - LIRMM, I needed a realistic underwater simulation environment to prototype and test perception algorithms. I chose the Stonefish simulator for its lightweight architecture and physically realistic underwater rendering.
 To explore its capabilities and integration within the ROS2 ecosystem, I began developing a simulation environment for two of my favorite MBARI [vehicles](https://www.mbari.org/our-work/technologies/vehicles/): the [MOLA AUV](https://www.mbari.org/technology/mola-auv/) (developed by the [CoMPAS Lab](https://www.mbari.org/team/compas-lab-control-modeling-and-perception-of-autonomous-systems-laboratory/)) and the [ROV Doc Ricketts](https://www.mbari.org/technology/rov-doc-ricketts/).
