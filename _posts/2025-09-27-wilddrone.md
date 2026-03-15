@@ -7,7 +7,7 @@ An event organized by the Max Planck Institute of Animal Behavior (MPI-AB) and t
 collection: posts
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 5px;">
   <img style="width: 38%; max-width: 500px;" src="/images/blog/wilddrone/WildDrone01.jpg">
   <img style="width: 33%; max-width: 500px;" src="/images/blog/wilddrone/WildDrone02.jpg">
   <img style="width: 21%; max-width: 500px;" src="/images/blog/wilddrone/wilddrone_poster.jpg">
