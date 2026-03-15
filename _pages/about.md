@@ -87,7 +87,8 @@ autonomous and teleoperated systems were another great source of fascination for
 Nevertheless, robotics was not yet in my future plans...<br>
 As time passed, my love for the natural world never changed, but my dream job evolved. 
 I imagined myself either as a concept artist for sci-fi and fantasy movies, 
-or as a comic book or manga artist.
+or as a comic book or manga artist. 
+If you are a curious person, you can find some of my drawings in my [blog post](https://alepuglisi.github.io/drawings/).
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
   <img style="width: 38%; max-width: 500px;" src="/images/about/draw_sea.jpg">
