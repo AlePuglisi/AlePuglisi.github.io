@@ -163,7 +163,7 @@ Exploration, however, is not enough.
 **Protection and conservation** are crucial missions for our threatened planet, 
 and **scalable solutions** must be developed.
 In **spatially aware marine robotic** systems, 
-I see the future of **large-scale biodiversity monitoring**, data collection, and exploration, 
+I see the future of **large-scale biodiversity monitoring**, data collection, and scientific knowledge, 
 helping define **new marine protected areas** and **regulations against ocean exploitation**.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
