@@ -201,9 +201,9 @@ but with a **deep understanding** and a **first person action** on the underwate
 I love to swim and observe the underwater environment with my own eyes.
 In 2025, after many years of freediving, 
 I decided to become **scuba certified**: 
-first SSI Open Water, then SSI Advanced Adventurer, and recently **FFESSM Niveau 2**.
-I look forward to take additional certification, partecipate in volunteering activities, 
-and gain more experience.<br>
+first SSI Open Water and Advanced Adventurer, and recently Niveau 2, Nitrox, and Dry Suit.
+I look forward to take additional scientific diving certification, get involved in citizen scientists volunteering activities, 
+and gain more experience in the underwater world.<br>
 The possibility of breathing underwater is extraordinary, 
 flying in a silent space surrounded by the richest biodiversity on Earth, 
 where colors and physics follow their own rules.<br>
