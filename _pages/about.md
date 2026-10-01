@@ -8,31 +8,40 @@ redirect_from:
 ---
 # About Me: Let's protect the ocean with robots !
 **Marine Robotics Perception**, **(Opti-Acosutic) SLAM**, **3D Reconstruction**, \\
-**Enhanced Scene Awareness**, **Autonomous Ecosystem Monitoring**, **Ocean Science**
+**Enhanced Scene Awareness**, **Ecosystem Monitoring**, **Ocean Science**
 
+I love Nature (especially the ocean and its inhabitants), Exploration, Robots, and scientifically driven innovations.
+What is a possible meeting point? Autonomous systems deployed in unknown and endangered marine environments!
 
 I'm a **PhD Student** of the [Marine Robotics Team](https://www.lirmm.fr/equipes/rsm/) (RSM), 
 at the [Laboratory of Informatics, Robotics and Microelectronics of Montpellier](https://www.lirmm.fr/) (LIRMM), advised by [Vincent Creuze](https://www.lirmm.fr/vincent-creuze/), [Juliette Drupt](https://juliettedrupt.github.io/) and [Frédéric Comby](https://www.researchgate.net/profile/Frederic-Comby). 
 My **PhD thesis** is entitled "*Mapping and monitoring of the surface condition and biological colonization of submerged parts of offshore wind turbines using acoustic imaging*". <br>
-My current research project focuses on **(opti-)acoustic localization and mapping of underwater robots** near floating wind turbines, integrating semantic information. 
+My current research project focuses on **(opti-)acoustic semantic localization and mapping of underwater robots** near floating wind turbines, integrating high-level contextual information. 
+
+I believe unsolved problems exist across different fields of science and engineering, with  similarities often overlooked. 
+That's why joining forces is the only way to solve some of them. I want to work in a multidisciplinary and stimulating environment,
+where I can use my engineering skills to find scalable and efficient solutions for ocean science. 
 
 <details closed>
-<summary> Expand to know more about why my PhD research is relevant...</summary>
+<summary> Expand to know more about why my PhD research is relevant</summary>
 
-With the widespread development of floating offshore renewable structures, the high cost and 
-risk of human-based inspection and maintenance must be addressed.
-Moreover, these structures become artificial reefs due to the colonization of many sessile animals 
-(biofouling). Monitoring biodiversity and the effects of these "artificial" ecosystems on the whole 
-marine environment is crucial. 
-To address these problems efficiently, autonomous (AUV) and teleoperated (ROV) underwater vehicles are the best choice. 
-Nevertheless, before deploying these systems, it is fundamental to guarantee
-their robustness in localizing themselves, mapping the environment, and understanding it.
-Acoustic imaging sensors provide additional eyes on the marine world, 
-where optical sensors (cameras) often have degraded performance. 
-However, the resolution and interpretability of acoustic images are challenging factors that I 
-will address during my research. 
-Finally, finding optimal ways to fuse optical images with acoustic ones allows us to achieve 
-an enhanced understanding of the scene, with additional robustness and information. 
+With the widespread development of floating offshore renewable structures, 
+the high cost and risk of human-based inspection and maintenance must be addressed.
+Moreover, submerged structures become artificial reefs through the colonization of numerous sessile organisms. 
+Monitoring biodiversity and understanding the ecological impact of these "artificial" 
+ecosystems on the surrounding marine environment is therefore crucial.<br>
+To address these challenges efficiently, autonomous underwater vehicles (AUVs) and remotely 
+operated vehicles (ROVs) represent one of the most scalable solutions.<br>
+Nevertheless, before deploying these systems, it is fundamental to ensure 
+their robustness in localization, mapping, and environmental understanding.
+Acoustic imaging sensors provide additional eyes on the marine world, particularly in conditions where optical 
+sensors (cameras) may experience degraded performance.
+However, the limited resolution and interpretability of acoustic imagery remain significant challenges that I will address during my research.
+While acoustic imaging is robust to the underwater environment, high-resolution camera images provide a detailed understanding of the scene that has not yet been robustly integrated into underwater localization and mapping frameworks.
+
+The algorithms that I will develop during my research will address sonar-based localization, optical semantic localization and mapping, 
+and the fusion of these two sensing modalities.
+Although motivated by offshore renewable energy applications, these technologies can be extended to a broader range of marine robotics problems, enabling new ways to explore, monitor, and understand the mysteries of the ocean.
 
 </details>
 
@@ -213,10 +222,12 @@ I want my diving skills to be an integral part of my work.
 <br>
 
 **What's Next**<br>
-My objective is to work on **R&D in Underwater Robots perception**. I want to enhance scene understanding and system autonomy, for biodiversity, environmental, and renewable infrastructure monitoring, conservation and restoration.
-I believe that there are unsolved problems in different fields of science and engineering, with many similarities we don't think about. That's why joining forces is the only way to solve some of those. I want to work closely with experts in biology, environmental studies, data science, electronics, and mechanics, to find the solution to those problems.
+My objective is to contribute to **research and development in underwater robotic perception**.
+I aim to advance scene understanding and autonomous systems to support ocean scientists in their mission to better understand our blue planet.
+My future research will be driven by the development of scalable tools for ocean exploration and monitoring, informed by direct multidisciplinary
+collaboration with scientists and focused on **addressing urgent scientific and environmental questions**.
 
 Good bubbles ! <br>
 Thank you so much for reading my story. <br>
-Alessandro 
+Ale
 
