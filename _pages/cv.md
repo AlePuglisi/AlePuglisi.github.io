@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv/PuglisiAlessandro_CV.pdf" class="btn btn--inverse">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/cv/PuglisiAlessandro_CV.pdf" class="btn btn--inverse">Open complete CV as PDF</a>
 </div> <br>
 
 Skills
@@ -24,8 +24,9 @@ Skills
   * C
 * **Robotics Tools**
   * ROS1 - ROS2
-  * Gazebo (General Robot Simulator)
   * Stonefish (Marine Robot Simulator)
+  * Gazebo (General Robot Simulator)
+  * Raspberry
 * Relevant **Software and Libraries**
   * Linux
   * opencv
@@ -33,16 +34,23 @@ Skills
   * colmap 
   * simulink 
 * Relevant **Engineering**
-  * Control Theory 
-  * Computer Vision 
   * Robot Perception 
+  * Computer Vision 
+  * Deep Learning
   * Robust Estimation 
   * Optimization 
 * **Extra**
   * Scuba Diving 
+  * Conservation and Ecology
 
 Work Experience
 ======
+
+* **Robotics Python Developer** - Summer Internship, Jul.2026-Aug.2026
+  * MBARI - CoMPAS Lab - Moss Landing, United States
+  * Work: 
+  * Tools: python, 3D Gaussian Splatting, image enhancement, deep learning
+
 * **Robotics Python Developer** - Summer Internship, Jul.2025-Sep.2025
   * Robotair, INESC TEC, Remotely - Porto, Portugal
   * Work: Integrate new ROS containerization features to the Robotair platform
@@ -75,9 +83,23 @@ Education
 
 Certificate and Courses
 ======
-* Scuba Diving Niveau 2 FFESSM (Supervised diver 40m - Autonomous diver 20m)
-
-
+* **Ocean Exploration**:
+  * Advanced Adventurer Diver, 30 m (SSI)
+  * Niveau 2, Supervised diver 40m - Autonomous diver 20m (ANMP - Guides de la Mer)
+  * Nitrox (ANMP - Guides de la Mer)
+  * Dry Suit (SSI)
+* **Conservation**:
+  * Blue Oceans (SSI)
+  * Introduction to Coral Reef Restoration Planning (conservationtraining.org)
+  * Introduction to the IUCN Red List (conservationtraining.org)
+  * IUCN Red List Assessments (conservationtraining.org)
+* **Software**:
+  * ROS2 For Beginners (Udemy)
+  * ROS 2 Nav2 - with SLAM and Navigation (Udemy)
+  * OpenCV Bootcamp (OpenCV University)
+  * TensorFlow-Keras Bootcamp (OpenCV University)
+  * Complete Computer Vision Bootcamp With PyTorch & Tensorflow (Udemy)
+ 
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
