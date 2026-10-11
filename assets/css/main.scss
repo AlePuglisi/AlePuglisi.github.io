@@ -127,7 +127,7 @@ a {
 
 .home-banner {
   width: 100%;
-  height: clamp(125px, 28vw, 320px);     /* scales with the window */
+  height: clamp(125px, 28vw, 360px);     /* scales with the window */
   background-size: cover;
   background-position: center;
 }
@@ -171,6 +171,6 @@ a {
   .home-banner ~ #main .sidebar div.author__avatar {
     position: relative;
     top: calc(-2em - var(--avatar-size) / 2);
-    margin-bottom: calc(-2em - var(--avatar-size) / 1.2);
+    margin-bottom: calc(-2em - var(--avatar-size) / 2);
   }
 }
