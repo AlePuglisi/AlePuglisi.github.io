@@ -1,0 +1,18 @@
+{%- assign news_items = site.data.news | sort: "date" | reverse -%}
+{%- assign visible = include.visible | default: 5 -%}
+<div class="news">
+<table><tbody>
+{%- for item in news_items limit: visible %}
+<tr><td class="news__date">{{ item.date | date: "%b %Y" }}</td><td class="news__text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</td></tr>
+{%- endfor %}
+</tbody></table>
+{%- if news_items.size > visible %}
+<details class="news__more">
+<summary><span class="more">Show older news</span><span class="less">Show less</span></summary>
+<table><tbody>
+{%- for item in news_items offset: visible %}
+<tr><td class="news__date">{{ item.date | date: "%b %Y" }}</td><td class="news__text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</td></tr>
+{%- endfor %}
+</tbody></table>
+</details>
+{%- endif %}
