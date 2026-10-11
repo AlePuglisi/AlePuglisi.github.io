@@ -27,7 +27,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
+    max-width: 100%; 
+    padding: 0.5em clamp(1.5em, 5vw, 6em);
     font-family: $sans-serif-narrow;
 
     // @include breakpoint($x-large) {
@@ -63,5 +64,22 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+}
+
+/* Desktop: title above the photo, menu links above the text column */
+@include breakpoint($large) {
+  .greedy-nav {
+    container-type: inline-size;   /* lets children use cqw = 1% of the nav width */
+
+    /* "Alessandro Puglisi" column = sidebar + gap, so link 2 starts at the text */
+    .visible-links li:first-child {
+      width: ((100% - span(10 of 12) + span(1 of 12 wide)) / 1%) * 1cqw;
+    }
+
+    /* remove the extra 1rem so the text edge matches exactly */
+    .visible-links li:nth-child(2) a {
+      margin-left: 0;
+    }
   }
 }
