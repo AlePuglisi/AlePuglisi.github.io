@@ -5,22 +5,25 @@
 #main {
   @include container;
   @include clearfix;
+  max-width: 100%;   
   margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  // padding-left: 1em;
+  // padding-right: 1em;
+  padding-left: clamp(1em, 3vw, 4em);    /* side margins scale with the window */
+  padding-right: clamp(1em, 3vw, 4em);
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
+  // @include breakpoint($x-large) {
+  //   max-width: $x-large;
+  // }
 }
 
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include prefix(1.5 of 12);
+    @include suffix(1 of 12);
   }
 
   .page__inner-wrap {
@@ -324,8 +327,8 @@
 
 .comment__avatar-wrapper {
   float: left;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
 
   @include breakpoint($large) {
     width: 100px;
@@ -334,8 +337,8 @@
 }
 
 .comment__avatar {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
 
   @include breakpoint($large) {
