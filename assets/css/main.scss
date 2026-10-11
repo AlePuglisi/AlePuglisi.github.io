@@ -127,7 +127,7 @@ a {
 
 .home-banner {
   width: 100%;
-  height: clamp(200px, 35vw, 400px);     /* scales with the window */
+  height: clamp(125px, 28vw, 320px);     /* scales with the window */
   background-size: cover;
   background-position: center;
 }
@@ -150,7 +150,7 @@ a {
     .sidebar {
       top: auto;                        /* start right below the banner (theme sets top: 2em) */
       padding-top: 0 !important;        /* beats the inline padding set by the menu script */
-      margin-top: calc(-2em - var(--avatar-size) / 2);
+      margin-top: calc(-2em - var(--avatar-size) / 1.2);
     }
 
     .sidebar div.author__avatar {
@@ -171,6 +171,6 @@ a {
   .home-banner ~ #main .sidebar div.author__avatar {
     position: relative;
     top: calc(-2em - var(--avatar-size) / 2);
-    margin-bottom: calc(-2em - var(--avatar-size) / 2);
+    margin-bottom: calc(-2em - var(--avatar-size) / 1.2);
   }
 }
