@@ -262,3 +262,62 @@
     }
   }
 }
+
+/* Phones and small tablets: stacked profile with a guaranteed photo size */
+@media screen and (max-width: 924px) {
+
+  /* the wrapper <div itemscope> inside .sidebar */
+  .sidebar [itemscope] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  /* photo container */
+  .sidebar div.author__avatar {
+    display: block;
+    width: clamp(120px, 38vw, 200px);   /* min 120px, max 200px */
+  }
+
+  /* the photo itself (covers both img variants in author-profile.html) */
+  .sidebar .author__avatar img,
+  .sidebar img.author__avatar {
+    display: block;
+    width: 100%;
+    max-width: none;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  /* text and Follow button take the full width instead of sharing a row */
+  .sidebar .author__content {
+    display: block;
+    width: 100%;
+    padding: 0 0.5em;
+    margin-top: 0.8em;
+  }
+
+  .sidebar .author__bio {
+    line-height: 1.5;
+    margin-top: 0.5em;
+  }
+
+  .sidebar .author__urls-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 0.8em;
+  }
+
+  /* center the dropdown under the Follow button instead of right-aligning it */
+  .sidebar .author__urls-wrapper {
+    display: block;               /* NOT flex: keeps the "Profile" label above the list */
+    width: 100%;
+    margin-top: 0.8em;
+    margin-left: 1.5em;
+    text-align: left;
+  }
+}
