@@ -2,6 +2,7 @@
 permalink: /
 author_profile: true
 title: ""
+home_banner: banner.jpg
 redirect_from: 
   - /about/
   - /about.html

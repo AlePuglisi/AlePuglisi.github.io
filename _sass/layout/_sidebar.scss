@@ -83,7 +83,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 100px;
+  width: 150px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -94,7 +94,7 @@
   }
 
   img {
-    max-width: 215px;
+    max-width: 250px;
     border-radius: 50%;
 
     // @include breakpoint($large) {
@@ -277,7 +277,7 @@
   /* photo container */
   .sidebar div.author__avatar {
     display: block;
-    width: clamp(120px, 38vw, 200px);   /* min 120px, max 200px */
+    width: clamp(140px, 40vw, 220px);   /* min 120px, max 200px */
   }
 
   /* the photo itself (covers both img variants in author-profile.html) */

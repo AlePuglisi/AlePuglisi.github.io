@@ -120,3 +120,57 @@ a {
   }
 
 }
+
+/* ==========================================================================
+   HOME BANNER - only on pages with `home_banner:` in their front matter
+   ========================================================================== */
+
+.home-banner {
+  width: 100%;
+  height: clamp(200px, 35vw, 400px);     /* scales with the window */
+  background-size: cover;
+  background-position: center;
+}
+
+/* avatar size used for the overlap computation */
+.home-banner ~ #main {
+  --avatar-size: clamp(150px, 14vw, 290px);          /* phones / tablets */
+
+  .author__avatar img {
+    border: 4px solid var(--global-bg-color);        /* ring that separates photo and banner */
+    box-sizing: border-box;
+  }
+}
+
+/* Desktop / large tablets: sidebar is a column, photo 50% over the banner */
+@media (min-width: 925px) {
+  .home-banner ~ #main {
+    --avatar-size: clamp(150px, 14vw, 290px); 
+
+    .sidebar {
+      top: auto;                        /* start right below the banner (theme sets top: 2em) */
+      padding-top: 0 !important;        /* beats the inline padding set by the menu script */
+      margin-top: calc(-2em - var(--avatar-size) / 2);
+    }
+
+    .sidebar div.author__avatar {
+      width: var(--avatar-size);
+    }
+
+    .author__avatar img {
+      width: 100%;
+      max-width: none;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+    }
+  }
+}
+
+/* Phones / small tablets: stacked profile, photo 50% over the banner */
+@media (max-width: 924px) {
+  .home-banner ~ #main .sidebar div.author__avatar {
+    position: relative;
+    top: calc(-2em - var(--avatar-size) / 2);
+    margin-bottom: calc(-2em - var(--avatar-size) / 2);
+  }
+}

@@ -14,6 +14,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if page.home_banner %}
+  <div class="home-banner" style="background-image: url('{{ page.home_banner | prepend: '/images/' | prepend: base_path }}');" role="img" aria-label="Banner"></div>
+{% endif %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
