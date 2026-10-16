@@ -12,7 +12,7 @@ collection: portfolio
 ---
 **Completed** - 2024 | C++  - ROS 2 - Gazebo Simulation - Limbed-robot - Hardware Testing 
 <div class="project-github-link">
-  <a href="https://github.com/AlePuglisi/LIMBERO" class="btn btn--inverse">GitHub Repo</a>
+  <a href="https://github.com/AlePuglisi/LIMBERO-GRIEEL" class="btn btn--inverse">GitHub Repo</a>
   <a href="https://www.youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C" class="btn btn--inverse">YouTube Videos</a>
 </div> <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
