@@ -13,7 +13,11 @@ Other features are under development-testing based on our needs. "
 collection: portfolio
 ---
 
-**Ongoing** - 2026 | C++ - ROS 2  - Imaging Sonar - Sensor Driver - Underwater Acoustics <br><br>
+**Ongoing** - 2026 | C++ - ROS 2  - Imaging Sonar - Sensor Driver - Underwater Acoustics <br>
+<div class="project-github-link">
+  <a href="https://github.com/AlePuglisi/oculus-m3000d-ros2-cpp-driver" class="btn btn--inverse">GitHub Repo</a>
+  <a href="https://oculus-m3000d-ros2-cpp-driver.readthedocs.io/en/latest/" class="btn btn--inverse">Documentation</a>
+</div><br>
 This project is adapted and extended from the M1200d [ROS2 Driver](https://github.com/godardma/oculus_ros2/tree/main) by ENSTA Bretagne Robotics, and the underlying low level Driver [Sonar Interface](https://github.com/ENSTABretagneRobotics/oculus_driver). The rebase to the M3000d model has been possible thanks to the ViewPointv2 SDK that the Blueprint Subsea Customer Support Team shared with me. 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 5px;">
