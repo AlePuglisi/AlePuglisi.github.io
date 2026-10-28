@@ -13,7 +13,8 @@ collection: portfolio
 
 **Completed** - 2025 | C++ - python - MATLAB - ROS 2 - Gazebo Simulation - Limbed-robot - Modeling - Manipulability
 <div class="project-github-link">
-  <a href="https://github.com/AlePuglisi/limbed-robot-control" class="btn btn--inverse">GitHub Repo</a>
+  <a href="https://github.com/AlePuglisi/limbed-robot-control" class="btn btn--inverse">GitHub Repo Manipulability</a>
+  <a href="https://github.com/AlePuglisi/master-thesis-multimodal-limbed-robot" class="btn btn--inverse">GitHub LaTeX Thesis</a>
 </div> <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
   <video style="width: 45%; max-width: 500px;" autoplay loop muted playsinline>
