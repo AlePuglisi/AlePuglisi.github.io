@@ -41,6 +41,6 @@ I have been able to collect one of the tested dataset onboard of the [R/V Rachel
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 5px;">
   <img style="width: 45%; max-width: 700px;" src="/images/projects/02_gulp3r/RV_Carson_Me.jpg">
   <img style="width: 45%; max-width: 700px;" src="/images/projects/02_gulp3r/Ventana_Me.jpg">
-  <p> Photo credits: MBARI's SciComm Team, Rose Dalrymple © 2026 </p>
-</div>
+</div> <br/>
+Photo credits: MBARI's SciComm Team, Rose Dalrymple © 2026 
 
